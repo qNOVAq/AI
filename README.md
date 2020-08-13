@@ -4,4 +4,4 @@ by the time and increasing the efficency of the code and keeping track.
 
 Feel free to download any of the content uploaded. Thank you 
 
-NOTE: All datasets are taken and from Kaggle
+NOTE: All the datasets used are taken from Kaggle.
